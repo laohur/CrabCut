@@ -1,0 +1,43 @@
+{
+    "app": {
+        "title": "CrabCut",
+        "description": "Multimedia Processing Tool"
+    },
+    "nav": {
+        "home": "Home",
+        "downloader": "Downloader",
+        "metadata": "Metadata Reader",
+        "converter": "Format Converter",
+        "cropper": "Video Cropper",
+        "merger": "Merger Tool",
+        "separator": "Audio Separator",
+        "av_merger": "A/V Merger",
+        "watermark": "Watermark Tool",
+        "composer": "Video Composer",
+        "ocr": "OCR",
+        "asr": "Speech Recognition",
+        "tts": "Text to Speech",
+        "translate": "Translator",
+        "auto_edit": "Auto Editor"
+    },
+    "common": {
+        "submit": "Process",
+        "clear": "Clear",
+        "download": "Download",
+        "preview": "Preview",
+        "output": "Output File",
+        "status": "Status",
+        "success": "Success",
+        "error": "Error",
+        "processing": "Processing...",
+        "select_file": "Select a file",
+        "select_files": "Select files (multiple allowed)"
+    },
+    "downloader": {
+        "urls": "Video URLs (one per line)",
+        "format": "Format",
+        "preview": "Video Preview",
+        "video": "Video",
+        "audio": "Audio"
+    }
+}

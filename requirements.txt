@@ -1,0 +1,14 @@
+gradio>=4.0.0
+yt-dlp
+Pillow
+easyocr
+pymupdf
+edge-tts
+requests
+loguru
+imageio-ffmpeg
+audio-separator
+funasr
+modelscope
+faster-whisper
+argostranslate

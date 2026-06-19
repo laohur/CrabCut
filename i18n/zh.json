@@ -1,0 +1,43 @@
+{
+    "app": {
+        "title": "螃蟹快剪 CrabCut",
+        "description": "多功能音视频处理工具"
+    },
+    "nav": {
+        "home": "首页",
+        "downloader": "下载器",
+        "metadata": "元属性读取",
+        "converter": "格式转换",
+        "cropper": "视频裁剪",
+        "merger": "拼接工具",
+        "separator": "音轨分离",
+        "av_merger": "音视频合并",
+        "watermark": "水印工具",
+        "composer": "合成视频",
+        "ocr": "OCR识别",
+        "asr": "语音识别",
+        "tts": "语音合成",
+        "translate": "翻译工具",
+        "auto_edit": "自动剪辑"
+    },
+    "common": {
+        "submit": "开始处理",
+        "clear": "清空",
+        "download": "下载",
+        "preview": "预览",
+        "output": "输出文件",
+        "status": "状态",
+        "success": "处理成功",
+        "error": "处理失败",
+        "processing": "处理中...",
+        "select_file": "请选择文件",
+        "select_files": "请选择文件（可多选）"
+    },
+    "downloader": {
+        "urls": "视频链接（每行一个）",
+        "format": "下载格式",
+        "preview": "视频预览",
+        "video": "视频",
+        "audio": "音频"
+    }
+}
