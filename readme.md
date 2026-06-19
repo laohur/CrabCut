@@ -197,8 +197,7 @@ sdk_version: 6.19.0
 python_version: '3.13'
 app_file: app.py
 pinned: false
-short_description: CrabCut is a feature-rich video/audio processing toolki
-
+short_description: CrabCut is a feature-rich video/audio processing toolkit built with Gradio, providing a user-friendly web interface
 ---
 
 ## License / 许可证
