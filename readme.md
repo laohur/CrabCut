@@ -188,6 +188,18 @@ CrabCut/
 ```
 
 ---
+title: CrabCut
+emoji: 🦀
+colorFrom: gray
+colorTo: indigo
+sdk: gradio
+sdk_version: 6.19.0
+python_version: '3.13'
+app_file: app.py
+pinned: false
+short_description: CrabCut is a feature-rich video/audio processing toolki
+
+---
 
 ## License / 许可证
 
